@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Componente Botón variocolor
-email: dmersac2912@g.educaand.es
+title: Componente Limpiar Formulario
+email: alexisnm.1990@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Esta es la documentación sobre un componente variocolor que puede ser utilizado de la forma más ingeniosa que se te ocurra, ánimate a investigarlo.
+  Esta es la documentación sobre un componente personalizado de Qt que contiene una animación para limpiar un formulario.
 baseurl: "/botonVariocolor" # the subpath of your site, e.g. /blog
-url: "https://danielmera2912.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: d
-github_username:  danielmera2912
+url: "https://alexisnavarromoreno.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: a
+github_username:  alexisnavarromoreno
 
 # Build settings
 remote_theme: pages-themes/architect@v0.2.0
