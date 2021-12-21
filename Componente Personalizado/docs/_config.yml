@@ -22,7 +22,7 @@ title: Componente Limpiar Formulario
 email: alexisnm.1990@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Esta es la documentación sobre un componente personalizado de Qt que contiene una animación para limpiar un formulario.
-baseurl: "/botonVariocolor" # the subpath of your site, e.g. /blog
+baseurl: "/Animado" # the subpath of your site, e.g. /blog
 url: "https://alexisnavarromoreno.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: a
 github_username:  alexisnavarromoreno
