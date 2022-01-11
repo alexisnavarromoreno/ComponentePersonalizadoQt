@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Componente personalizado de botón multicolor
+# Componente personalizado de limpiar Formulario
 
 ## Partes del componente
 
