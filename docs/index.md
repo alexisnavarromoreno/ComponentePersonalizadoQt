@@ -43,7 +43,7 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Autor ✒️
 
-* **Alexis Navarro Moreno** - *Trabajo Inicial* - [alexisnavarromoreno](https://gist.github.com/alexisnavarromoreno)
+* **Alexis Navarro Moreno**  [alexisnavarromoreno](https://gist.github.com/alexisnavarromoreno)
 
 ## Licencia 📄
 
