@@ -2,7 +2,15 @@
 layout: default
 ---
 
-# Componente personalizado de limpiar Formulario
+# Título del Proyecto
+
+Componente personalizado de limpiar Formulario
+
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
 
 ## Partes del componente
 
@@ -28,13 +36,6 @@ Sirve para limpiar formularios de una manera más atractiva.
 Todo usuario es completamente libre de realizar con el código del componente lo que quiere, ¿Qué cosas puede animarse a realizar? Cambiar el widget por un label, e introducir imágenes que limpien el formulario, cambiar el color de la animación y el texto del botón, también podrás usar este componente en cualquier proyecto.
 
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
@@ -47,6 +48,6 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GNU General Public License v2.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU General Public License v2.0) - mira el archivo [LICENSE.md] para detalles
 
 ---
