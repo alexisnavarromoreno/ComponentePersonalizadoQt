@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Título del Proyecto
 
 Componente personalizado de limpiar Formulario
