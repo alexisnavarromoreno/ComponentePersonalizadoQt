@@ -19,35 +19,33 @@ _Se compone de 3 elementos, un botón, un line edit y una **animación**._
 
 ## ¿Cómo se usa?
 
-
 _Es sencillo, una vez el usuario ha escrito sobre el **line edit**, pulsando el **botón** se iniciará una animación que limpiará el line edit, es posible **cambiar** el color
 de la animación como el texto del botón._
 
 
 ## ¿Para qué sirve?
 
-
 Sirve para limpiar formularios de una manera más atractiva.
 
 
 ## Distribución
 
-
-Todo usuario es completamente libre de realizar con el código del componente lo que quiere, ¿Qué cosas puede animarse a realizar? Cambiar el widget por un label, e introducir imágenes que limpien el formulario, cambiar el color de la animación y el texto del botón, también podrás usar este componente en cualquier proyecto.
-
+_Todo usuario es completamente libre de realizar con el código del componente lo que quiere, ¿Qué cosas puede animarse a realizar? Cambiar el widget por un label, e introducir imágenes que limpien el formulario, cambiar el color de la animación y el texto del botón, también podrás usar este componente en cualquier proyecto._
 
 
 ## Construido con 🛠️
 
-* [Qt](https://www.qt.io) - Framework de desarrollo de interfaces gráficas
+* [Qt](https://www.qt.io) - _Framework de desarrollo de interfaces gráficas_
 * [Python](https://www.python.org)
+
 
 ## Autor ✒️
 
 * **Alexis Navarro Moreno**  [alexisnavarromoreno](https://gist.github.com/alexisnavarromoreno)
 
+
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (GNU General Public License v2.0) - mira el archivo [LICENSE.md] para detalles
+_Este proyecto está bajo la Licencia (GNU General Public License v2.0) - mira el archivo_ [LICENSE.md] _para detalles_
 
 ---
