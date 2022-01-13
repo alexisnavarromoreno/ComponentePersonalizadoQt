@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+Componente Personalizado/Animado.py
+Componente Personalizado/Animado_Demo.py
+Componente_Personalizado.egg-info/PKG-INFO
+Componente_Personalizado.egg-info/SOURCES.txt
+Componente_Personalizado.egg-info/dependency_links.txt
+Componente_Personalizado.egg-info/top_level.txt

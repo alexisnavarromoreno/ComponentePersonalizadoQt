@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: Componente-Personalizado
+Version: 0.1
+Summary: Componente personalizado para formulario Qt
+Home-page: https://github.com/alexisnavarromoreno/ComponentePersonalizadoQt/tree/main
+Author: Alexis Navarro Moreno
+Author-email: alexisnm.1990@gmail.com
+License: GNU GENERAL PUBLIC LICENSE
+Download-URL: https://github.com/alexisnavarromoreno/ComponentePersonalizadoQt/archive/refs/tags/0.1.tar.gz
+Keywords: formulario Qt animado
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE.md
+
+UNKNOWN
+
