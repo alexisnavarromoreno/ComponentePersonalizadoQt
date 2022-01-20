@@ -29,6 +29,11 @@ Sirve para limpiar formularios de una manera más atractiva.
 _Todo usuario es completamente libre de realizar con el código del componente lo que quiere, ¿Qué cosas puede animarse a realizar? Cambiar el widget por un label, e introducir imágenes que limpien el formulario, cambiar el color de la animación y el texto del botón, también podrás usar este componente en cualquier proyecto._
 
 
+## Instalación
+
+* [Componente Personalizado Qt](https://pypi.org/project/Componente-Personalizado/) - _Enlace para descargar el componente_
+
+
 ## Construido con 🛠️
 
 * [Qt](https://www.qt.io) - _Framework de desarrollo de interfaces gráficas_
